@@ -1,0 +1,14 @@
+Example Syntax Inside Octavia
+
+Target url: http://192.168.43.230:8080 or http://sampleweb.com
+
+Dirs/files list path: wordlists/example.list
+
+Bruteforce dirs? [Y/N]: y
+
+Bruteforce files? [Y/N]:
+
+-you can use ip or domain name
+-delete extra "/" at the end of the target domain
+as seen in the example above
+
