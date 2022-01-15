@@ -12,12 +12,12 @@ Octavia is a Python alternative to Dirbuster. With Octavia you can find, in a si
 
 Works well with linux, not tested on Windows. Please let me know. <br>
 <br>
-<b>============================<b><br>
+<b>============================</b><br>
 <b>dscript-git Edit</b><br>
 -dscript-git is not the original developer of Octavia<br>
 -I do reuploaded this to keep it on Github<br>
 -Running well on Python 3.x<br>
--pip3 install requests
--I added small and medium wordlists
+-pip3 install requests<br>
+-I added small and medium wordlists<br>
 -cat "sample.txt" and "wordlists/readme.txt" first before running Octavia<br>
-<b>============================<b><br>
+<b>============================</b><br>
